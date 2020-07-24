@@ -1,6 +1,6 @@
 {
   "name": "react-use-file",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "File object hooks with react",
   "main": "./dist/index.js",
   "repository": "https://github.com/pys99pys/react-use-file",
