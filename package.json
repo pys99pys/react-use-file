@@ -1,0 +1,23 @@
+{
+  "name": "react-use-file",
+  "version": "1.0.2",
+  "description": "File object hooks with react",
+  "main": "./dist/index.js",
+  "repository": "https://github.com/pys99pys/react-use-file",
+  "scripts": {
+    "start": "tsc -w",
+    "build": "rm -rf dist && tsc"
+  },
+  "author": "pys99pys@gmail.com",
+  "license": "ISC",
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  },
+  "peerDependencies": {
+    "@types/react": "^16.9.43",
+    "react": "^16.13.1"
+  }
+}
